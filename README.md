@@ -12,8 +12,6 @@
 - ☁️ &nbsp;Deep on cloud infrastructure, automation, CI/CD, and AI-assisted development.
 - 📫 &nbsp;Best reached on [LinkedIn](https://www.linkedin.com/in/adriano-marra/).
 
-## 🛠️ Tech &amp; Tools
-
 <div style="display: inline_block">
   <p align="center">
     <img align="center" alt="Python" height="34" width="44" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,21 +33,18 @@
   </p>
 </div>
 
-## 📊 GitHub
+## 📈 Stats
 
 <div align="center">
-  <img height="165" alt="Adriano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AdrianoMarra&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
+  <img height="165" alt="Adriano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AdrianoMarra&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight"/>
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMarra&layout=compact&count_private=true&hide_border=true&theme=tokyonight"/>
   <br/>
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AdrianoMarra&hide_border=true&theme=tokyonight"/>
 </div>
 
-## 🤝 Connect
-
 <div>
   <p align="center">
     <a href="https://www.linkedin.com/in/adriano-marra/"><img title="linkedin.com/in/adriano-marra" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://github.com/AdrianoMarra"><img title="github.com/AdrianoMarra" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
 </div>
 
