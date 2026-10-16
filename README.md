@@ -17,7 +17,7 @@
 <div style="display: inline_block">
   <p align="center">
     <img align="center" alt="Python" height="34" width="44" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Django" height="34" width="44" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" alt="Django" height="34" width="44" title="Django" src="https://cdn.simpleicons.org/django/44B78B">
     <img align="center" alt="Java" height="34" width="44" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="JavaScript" height="34" width="44" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript" height="34" width="44" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
