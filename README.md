@@ -2,7 +2,7 @@
 <meta name="keywords" content="Platform Engineer, SRE, DevOps, Python, Django, React, TypeScript, Java, Terraform, Jenkins, PostgreSQL, Redis, Docker"/>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=140&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:100E17,100:00E5FF&height=140&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Adriano+Marra;Platform+Engineer+%2F+SRE+%40+JPMorgan+Chase;Full-stack+builder+%E2%80%94+Python+%7C+Django+%7C+React)
@@ -51,5 +51,5 @@
 </div>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:100E17,100:00E5FF&height=120&section=footer"/>
 </a>
