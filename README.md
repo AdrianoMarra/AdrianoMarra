@@ -5,12 +5,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=140&section=header"/>
 </a>
 
-<p align="center">
-  <img alt="Adriano Marra" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=764BA2&center=true&vCenter=true&width=1000&height=70&lines=Adriano+Marra"/>
-</p>
-<p align="center">
-  <img alt="Platform Engineer / SRE" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=45&lines=Platform+Engineer+%2F+SRE+%40+JPMorgan+Chase;Full-stack+builder+%E2%80%94+Python+%7C+Django+%7C+React;Cloud+%C2%B7+Automation+%C2%B7+AI-assisted+development"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Adriano+Marra;Platform+Engineer+%2F+SRE+%40+JPMorgan+Chase;Full-stack+builder+%E2%80%94+Python+%7C+Django+%7C+React)
 
 ## 👋 About
 
