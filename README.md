@@ -5,7 +5,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:100E17,100:00E5FF&height=140&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Adriano+Marra;Platform+Engineer+%2F+SRE+%40+JPMorgan+Chase;Full-stack+builder+%E2%80%94+Python+%7C+Django+%7C+React)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=600&color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Adriano+Marra;Platform+Engineer+%2F+SRE+%40+JPMorgan+Chase;Full-stack+builder+%E2%80%94+Python+%7C+Django+%7C+React)
 
 ## 👋 About
 
