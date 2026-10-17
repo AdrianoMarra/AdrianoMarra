@@ -37,10 +37,16 @@
 
 ## 📈 Stats
 
+<p align="center"><sub><i>All-time, since 2019</i></sub></p>
+<p align="center">
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-2%2C483-00C9A7?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Commits" src="https://img.shields.io/badge/Commits-425-44B78B?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Pull Requests" src="https://img.shields.io/badge/Pull%20Requests-796-00B4D8?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Issues" src="https://img.shields.io/badge/Issues-519-0F6F5C?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
 <div align="center">
-  <img height="165" alt="Adriano's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AdrianoMarra&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&theme=tokyonight"/>
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMarra&layout=compact&count_private=true&hide_border=true&theme=tokyonight"/>
-  <br/>
   <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AdrianoMarra&hide_border=true&theme=tokyonight"/>
 </div>
 
